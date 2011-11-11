@@ -18,3 +18,5 @@ $('my-selector').trigger('click:left');
 // remove the event...
 $('my-selector').off('click:left');
 ```
+
+MIT License
